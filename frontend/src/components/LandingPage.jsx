@@ -41,10 +41,7 @@ export default function LandingPage() {
             StudyMate AI
           </span>
         </div>
-        <div className="flex items-center space-x-2 text-xs font-semibold text-slate-500 bg-white/80 backdrop-blur px-3 py-1.5 rounded-full border border-slate-200/80 shadow-sm">
-          <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-          <span>Google Cloud & Gemini Ready</span>
-        </div>
+
       </header>
 
       {/* Hero Section */}
